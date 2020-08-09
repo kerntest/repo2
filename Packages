@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: jp.akusio.kernbypass
+Name: KernBypass
+Version: 0.0.2
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Architecture: iphoneos-arm
+Description: kernel level jailbreak detection bypass.
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Maintainer: akusio
+Author: akusio
+Section: System
+Filename: ./debs/jp.akusio.kernbypass.deb
+Depiction: https://TylerSk8.github.io/repo2/depictions/callproxi
+Size: 11774
+MD5sum: c2ba3079046c76f5ec3782bfc0b3afcc
+
